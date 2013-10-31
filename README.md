@@ -1,4 +1,4 @@
 zhdocs
 ======
 Documentation Repository
-	Module Insatller Documents
+	Module Installer Documents
